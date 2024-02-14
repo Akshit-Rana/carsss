@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A Car Showcase Website</h3>
+  <h3 align="center">A website for car lovers</h3>
 
    <div align="center">
-    Showcases a visually appealing display of cars, providing a captivating introduction to the diverse range of vehicles available.
+    Showcases a visually appealing display of cars, providing a captivating introduction to the diverse range of vehicles available and its stats.
     </div>
 </div>
 
@@ -27,7 +27,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Developed with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
+Developed with Next.js and leveraging its server-side rendering capabilities, the Car Spectacle website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -66,12 +66,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/project_next13_car_showcase.git
-cd project_next13_car_showcase
-```
 
 **Installation**
 
